@@ -1,3 +1,3 @@
 # GT
  
- Collection of game thory projects.
+ Collection of game thory projects and simulations.
